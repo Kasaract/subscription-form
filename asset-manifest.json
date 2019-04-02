@@ -1,13 +1,13 @@
 {
-  "main.css": "/subscription-form/static/css/main.9c67e00e.chunk.css",
-  "main.js": "/subscription-form/static/js/main.90b291cc.chunk.js",
-  "main.js.map": "/subscription-form/static/js/main.90b291cc.chunk.js.map",
-  "runtime~main.js": "/subscription-form/static/js/runtime~main.8d70c32f.js",
-  "runtime~main.js.map": "/subscription-form/static/js/runtime~main.8d70c32f.js.map",
-  "static/js/2.a8388bfd.chunk.js": "/subscription-form/static/js/2.a8388bfd.chunk.js",
-  "static/js/2.a8388bfd.chunk.js.map": "/subscription-form/static/js/2.a8388bfd.chunk.js.map",
-  "index.html": "/subscription-form/index.html",
-  "precache-manifest.40c9d4229faaa039fe5f227e218fcfeb.js": "/subscription-form/precache-manifest.40c9d4229faaa039fe5f227e218fcfeb.js",
-  "service-worker.js": "/subscription-form/service-worker.js",
-  "static/css/main.9c67e00e.chunk.css.map": "/subscription-form/static/css/main.9c67e00e.chunk.css.map"
+  "main.css": "/static/css/main.9c67e00e.chunk.css",
+  "main.js": "/static/js/main.c3edad42.chunk.js",
+  "main.js.map": "/static/js/main.c3edad42.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.a8388bfd.chunk.js": "/static/js/2.a8388bfd.chunk.js",
+  "static/js/2.a8388bfd.chunk.js.map": "/static/js/2.a8388bfd.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.29c9d167f786560d4c8f67739c0e6c70.js": "/precache-manifest.29c9d167f786560d4c8f67739c0e6c70.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.9c67e00e.chunk.css.map": "/static/css/main.9c67e00e.chunk.css.map"
 }
